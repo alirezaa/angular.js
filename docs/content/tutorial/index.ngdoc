@@ -124,7 +124,7 @@ npm --version
 </div>
 
 Once you have Node.js installed on your machine you can download the tool dependencies by running:
-
+(if running this on Mac, you need to run bower install first)
 ```
 npm install
 ```
